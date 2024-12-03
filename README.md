@@ -1,2 +1,2 @@
-# aakarwear.in
+# aakarwear
 E-com Store
